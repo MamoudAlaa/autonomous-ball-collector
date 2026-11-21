@@ -317,15 +317,17 @@ When no ball is detected, the robot performs an 18-step dance routine showcasing
 For full technical details, see [**Detailed Technical Document**](docs/detailed_technical_document.md) — covers every subsystem, algorithm, pin assignment, and design decision in depth.
 
 ---
+## Publication
 
+K. Soliman, **Mahmoud A. Mohamed** (second author), M. Nasr, A. Khattab, A. Mostafa, M. Ashraf, and M. Alkalla, *"Vision-Guided Autonomous Ball Collection and Ultra-Wideband-Tracked Launching on a Mecanum-Wheeled Mobile Robot,"* **2026 11th International Conference on Robotics and Automation Engineering (ICRAE)**, Nagoya University, Japan, Nov. 20–22, 2026 (Paper ID: AE068). **Accepted for oral presentation and publication** (indexed by Ei Compendex, Scopus).
 
 ## 👥 Team
 
 **Kareem Shaban Eid** — Mechatronics Engineering Student, E-JUST  
 [LinkedIn](https://linkedin.com/in/kareem-04-soliman) · [GitHub](https://github.com/Kareem-04)  
 
-**Mahmoud Alaa** — Mechatronics Engineering Student, E-JUST  
-[LinkedIn](https://www.linkedin.com/in/mahmoud-a-ab2134340)
+**Mahmoud A. Mohamed (Mahmoud Alaa)** — Mechatronics Engineering Student, E-JUST  
+[LinkedIn](https://www.linkedin.com/in/mahmoud-a-ab2134340) · [GitHub](https://github.com/MamoudAlaa)
 
 **Mariam Nasr** — Mechatronics Engineering Student, E-JUST  
 [LinkedIn](https://www.linkedin.com/in/mariam-nasr-246262222)
